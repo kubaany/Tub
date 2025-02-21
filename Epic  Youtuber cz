@@ -1,4 +1,4 @@
-tree - sitter
+tree-sitter
 import webbrowser
 URL = "https://youtube.com/shorts/00f9DWPtRFU?si=dkq9zG5jnB2eQO0D"
 klo = input("jméno ")
